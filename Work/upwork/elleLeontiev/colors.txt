@@ -1,0 +1,2 @@
+blue 1 - #5093be
+blue 2 - #7dbde9
